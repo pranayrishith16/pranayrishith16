@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-<!--
-**pranayrishith16/pranayrishith16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=pranayrishith16&count_private=true&show_icons=true&hide=contribs)
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on Different technologies
-- 🌱 I’m currently learning Ethical hacking
-- 👯 I’m looking to collaborate on Full Stack projects
-<!-- - 🤔 I’m looking for help with Frontend -->
-- 💬 Ask me about anything that I can solve
-- 📫 How to reach me: pranayrishith007@gmail.com (Must include Subject)
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranayrishith16&theme=dark" width="48%" >
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranayrishith16&layout=compact)
+
+<a href="mailto:pranayrishith007@gmail.com">![pranayrishith007@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/pranay16/">![Pranay Rishith](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
