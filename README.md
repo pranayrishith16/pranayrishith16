@@ -3,7 +3,7 @@
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=pranayrishith16&count_private=true&show_icons=true&hide=contribs)
 
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranayrishith16&theme=dark" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranayrishith16&theme=dark" width="64%" >
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranayrishith16&layout=compact)
 
