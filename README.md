@@ -19,7 +19,7 @@ I am **Pranay Rishith**. I am a Passionate Full stack web developer, Machine Lea
 
 Apart from this I also have expertise in Machine learning. I am building projects in Kaggle and you can find the projects in my git profile. I also write articles in medium.
 
-- Want to colab in any project, contact me at: **me.pranayrishith@gmail.com**
+- Want to colab in any project, contact me at: **pranayrishith007@gmail.com**
 - Have any **tech startup ideas**, lets talk about it.
 
 Here are my social handles:
